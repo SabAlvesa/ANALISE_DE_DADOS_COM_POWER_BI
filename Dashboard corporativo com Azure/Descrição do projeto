@@ -1,0 +1,3 @@
+Nesse desafio da DIO tive que criar um servidor flexível do banco de dados do AZURE para MySQL, adicionei o script pelo CLOUD SHELL e em seguida conectei o servidor no POWER BI com uma DNS criado na fonte de dados ODBC. Utilizando o Power Query tratei os dados removendo colunas desnecessárias, modificando valores como data, valor monetário e número inteiros, mesclando tabelas e separando colunas complexas.  
+Finalizei criando um simples Dashboard e destaquei dados como tipos de projetos feita por sexo e localidade.
+
