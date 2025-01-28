@@ -1,0 +1,3 @@
+Neste projeto, a tabela Financial Sample foi utilizada para criar novas tabelas de dimensão e fato, com base no modelo Star Schema. As tabelas criadas foram: D_Produto, D_Produtos_Detalhes, D_Descontos, D_Detalhes, D_Calendário e Fatos_vendas. Utilizei ferramentas como Agrupar Por, adicionando os IDs de produto para organizar e consolidar os dados de maneira eficiente.
+
+Usei o DAX para criar a tabela Calendário, gerando automaticamente as datas necessárias para as análises e integrando essa tabela ao modelo de dados. Isso facilitou as análises baseadas em datas.
