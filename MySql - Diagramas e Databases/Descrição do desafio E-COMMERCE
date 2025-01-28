@@ -1,0 +1,3 @@
+Neste desafio, foi desenvolvido um diagrama relacional onde inclui os principais relacionamentos, como Cliente (Pessoa Jurídica ou Física), Pagamento e Tipos de Pagamentos.
+
+Após a criação do diagrama, foi implementado o banco de dados "E-Commerce" no MySQL. Foram definidas as tabelas, inseridos os valores correspondentes e realizadas consultas para validar e manipular os dados, atendendo às necessidades do sistema de forma eficiente e organizada.
