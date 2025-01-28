@@ -1,0 +1,2 @@
+
+O objetivo deste desafio foi criar um modelo dimensional Star Schema com foco na análise de dados dos professores. O modelo foi desenvolvido no MySQL, a partir de um diagrama relacional disponibilizado pela DIO, e envolveu a criação de tabelas de dimensão, com seus respectivos atributos necessários, além da inclusão de uma tabela de datas para suprir a falta de dados temporais no modelo original.
